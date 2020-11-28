@@ -1,11 +1,11 @@
 body {
-  color: rgb(158, 36, 35);
+  color: charcoal;
   font-size: 20px;
-  background-color: gold;
+  background-color: rgb(212,175,55);
 }
 
 h1{
-  color: grey;
+  color: black;
   font-family: 'Sarala', sans-serif;
 }
 
@@ -29,6 +29,8 @@ header {
 footer {
   font-size: 20px;
   font-family: 'Sarala', sans-serif;
+}
+
 section {
   color: brown;
   font-size: 20px
