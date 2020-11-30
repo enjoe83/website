@@ -1,3 +1,9 @@
+/* This is my Website */
+
+* {
+  font-size: 100%;
+}
+
 body {
   color: charcoal;
   font-size: 20px;
@@ -12,10 +18,16 @@ h1{
 h2 {
   color: black;
   font-family: 'Aclonica', sans-serif;
+  /* font-size= 36px; */
+}
+
+h1, h2 {
+  font-weight: bold;
+  font-style: italic;
 }
 
 p{
-  fony-size 18px;
+  /* fony-size 18px; */
   color: black;
   font-family: 'Sarala', sans-serif;
 }
@@ -23,7 +35,7 @@ p{
 header {
   color: brown;
   font-family: 'Aclonica', sans-serif;
-  font-size: 20px
+  /* font-size: 20px */
 }
 
 footer {
