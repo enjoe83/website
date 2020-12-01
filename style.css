@@ -18,6 +18,10 @@ body {
     paddine:30px;
   }
 }
+
+header {
+  border-bottom: 5px solid grey;
+}
 h1{
   color: black;
   font-family: 'Sarala', sans-serif;
