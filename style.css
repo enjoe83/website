@@ -4,7 +4,12 @@
   font-size: 100%;
   margin: 0;
   line-height: 1;
+  box-sizing: border-box;
   /* border: 1px soild red; */
+}
+
+img {
+  height: 300px;
 }
 
 body {
