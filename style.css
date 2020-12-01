@@ -2,7 +2,9 @@
 
 * {
   font-size: 100%;
-  border: 1px soild red;
+  margin: 0;
+  line-height: 1;
+  /* border: 1px soild red; */
 }
 
 body {
