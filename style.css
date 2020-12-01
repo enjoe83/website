@@ -12,7 +12,11 @@ body {
   color: charcoal;
   font-size: 14px;
   font-family:Helvetica;
-  margin: 50px;
+  header,
+  section,
+  footer {
+    paddine:30px;
+  }
 }
 
 h1{
