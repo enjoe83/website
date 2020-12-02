@@ -26,6 +26,7 @@ img {
   height: 300px;
 }
 
+.box
 body {
   background-color: rgb(212,175,55);
   color: charcoal;
@@ -35,10 +36,8 @@ body {
   section,
   footer {
     paddine:40px;
-.box {
   background-images: url(images/star-background.png);
   background-repeat: no-repeat;
-  }
 }
 
 h1{
