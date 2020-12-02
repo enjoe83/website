@@ -11,6 +11,11 @@
 .title{
   font-size: 48px;
   text-decoration: underline;
+  color: blue;
+}
+
+h1 {
+  color red;
 }
 img {
   height: 300px;
