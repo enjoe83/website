@@ -8,6 +8,17 @@
   /* border: 1px soild red; */
 }
 
+body {
+  background-color: rgb(212,175,55);
+  color: charcoal;
+  font-size: 20px;
+  font-family:Helvetica;
+  header,
+  section,
+  footer {
+    paddine:40px;
+}
+
 .title{
   font-size: 48px;
   text-decoration: underline;
@@ -24,20 +35,6 @@ h1 {
 }
 img {
   height: 300px;
-}
-
-.box
-body {
-  background-color: rgb(212,175,55);
-  color: charcoal;
-  font-size: 20px;
-  font-family:Helvetica;
-  header,
-  section,
-  footer {
-    paddine:40px;
-  background-images: url(images/star-background.png);
-  background-repeat: no-repeat;
 }
 
 h1{
