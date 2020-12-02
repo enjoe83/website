@@ -35,7 +35,9 @@ body {
   section,
   footer {
     paddine:40px;
+.box {
   background-images: url(images/star-background.png);
+  background-repeat: no-repeat;
   }
 }
 
