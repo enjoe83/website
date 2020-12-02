@@ -8,9 +8,9 @@
   /* border: 1px soild red; */
 }
 
-body {
+.box {
   background-image: url(images/blue-background.jpg);
-  background-size: 100%;
+  background-repeat: norepeat;
 }
 
 body {
