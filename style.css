@@ -14,6 +14,11 @@
   color: blue;
 }
 
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
 h1 {
   color red;
 }
@@ -30,6 +35,7 @@ body {
   section,
   footer {
     paddine:40px;
+  background-images: url(images/star-background.png);
   }
 }
 
