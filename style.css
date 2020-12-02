@@ -43,6 +43,11 @@ h1{
   text-align: lefy;
 }
 
+#about {
+  background-color: red;
+  color: white;
+}
+
 h2 {
   color: black;
   font-family: 'Aclonica', sans-serif;
