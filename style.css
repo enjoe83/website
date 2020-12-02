@@ -14,11 +14,11 @@ body {
   font-size: 20px;
   font-family:Helvetica;
   header,
+  section,
   background-image: url(images/star-background.png);
   background-size: 100%;
 }
 
-  section,
   footer {
     paddine:40px;
 }
