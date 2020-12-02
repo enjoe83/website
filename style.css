@@ -24,12 +24,12 @@ img {
 body {
   background-color: rgb(212,175,55);
   color: charcoal;
-  font-size: 14px;
+  font-size: 20px;
   font-family:Helvetica;
   header,
   section,
   footer {
-    paddine:30px;
+    paddine:40px;
   }
 }
 
@@ -40,9 +40,9 @@ h1{
   text-align: lefy;
 }
 
-#about {
+/* #about {
   background-color: grey;
-  color: white;
+  color: white; */
 }
 
 h2 {
@@ -54,7 +54,7 @@ h2 {
 h1, h2 {
   font-weight: bold;
   font-style: italic;
-  margin-bottom: 20px;
+  margin-bottom: 35px;
 }
 
 p{
@@ -70,7 +70,7 @@ ul, ol {
 }
 
 header h1 {
-  color: brown;
+  color: white;
   font-family: 'Aclonica', sans-serif;
   /* font-size: 20px */
   text-align: center;
