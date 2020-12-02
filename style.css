@@ -9,14 +9,17 @@
 }
 
 body {
-  /* background-color: rgb(212,175,55); */
+  background-image: url(images/blue-background.jpg);
+  background-size: 100%;
+}
+
+body {
+  background-color: rgb(212,175,55);
   color: charcoal;
   font-size: 20px;
   font-family:Helvetica;
   header,
   section,
-  background-image: url(images/star-background.png);
-  background-size: 100%;
 }
 
   footer {
