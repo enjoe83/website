@@ -8,7 +8,7 @@
   /* border: 1px soild red; */
 }
 
->banner {
+.banner {
   height:350px;
   background-image: url(images/tupas-joint.jpg);
   background-size: cover;
