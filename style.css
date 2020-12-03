@@ -66,7 +66,7 @@ body {
   /* header,
   section, */
   background-image: url(images/star-background.png);
-  background-repeat: norepeat;
+  background-repeat: repeat;
 }
 
   footer {
@@ -94,7 +94,7 @@ img {
 h1{
   color: black;
   font-family: 'Sarala', sans-serif;
-  font-size: 36px;
+  font-size: 20px;
   text-align: left;
 }
 
@@ -107,7 +107,7 @@ h2 {
 h1, h2 {
   font-weight: bold;
   font-style: italic;
-  margin-bottom: 35px;
+  margin-bottom: 25px;
 }
 
 p{
@@ -123,7 +123,7 @@ ul, ol {
 }
 
 header h1 {
-  color: gold;
+  color: rgb(212,175,55);
   font-family: 'Aclonica', sans-serif;
   /* font-size: 20px */
   text-align: center;
@@ -144,7 +144,7 @@ footer {
 }
 
 section {
-  color: gold;
+  color: rgb(212,175,55);
   font-size: 20px;
   font-family: 'Sarala', sans-serif;
 }
