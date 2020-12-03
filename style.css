@@ -99,9 +99,10 @@ h1{
 }
 
 h2 {
-  color: black;
+  color: rgb(212,175,55);
   font-family: 'Aclonica', sans-serif;
   font-size= 24px;
+  text-align: left;
 }
 
 h1, h2 {
