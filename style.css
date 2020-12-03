@@ -69,7 +69,7 @@ nav ul li a:hover {
 .prev, .next {
   cursor: pointer;
   position: absolute;
-  top: 50%;
+  top: 70%;
   width: auto;
   margin-top: 22px;
   padding: 16px;
