@@ -55,7 +55,7 @@ nav ul li a:hover {
 * {box-sizing:border-box}
 
 .slideshow-container {
-  max-width: 900px;
+  max-width: 750px;
   position: relative;
   margin: auto;
 }
@@ -71,7 +71,7 @@ nav ul li a:hover {
   position: absolute;
   top: 50%;
   width: auto;
-  margin-top: -22px;
+  margin-top: 22px;
   padding: 16px;
   color: white;
   font-weight: bold;
