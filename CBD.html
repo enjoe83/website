@@ -71,7 +71,37 @@
   <span class="dot" onclick="currentSlide(2)"></span>
   <span class="dot" onclick="currentSlide(3)"></span>
 </div>
+<script>
+var slideIndex = 1;
+showSlides(slideIndex);
 
+// Next/previous controls
+function plusSlides(n) {
+showSlides(slideIndex += n);
+}
+
+// Thumbnail image controls
+function currentSlide(n) {
+showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+var i;
+var slides = document.getElementsByClassName("mySlides");
+var dots = document.getElementsByClassName("dot");
+if (n > slides.length) {slideIndex = 1}
+if (n < 1) {slideIndex = slides.length}
+for (i = 0; i < slides.length; i++) {
+slides[i].style.display = "none";
+}
+for (i = 0; i < dots.length; i++) {
+dots[i].className = dots[i].className.replace(" active", "");
+}
+slides[slideIndex-1].style.display = "block";
+dots[slideIndex-1].className += " active";
+}
+
+</script>
 <section>
   <h1>What is CBD?</h1>
   <p>CBD, also known as Cannabidiol, is a natural compand found in cannabis. Cannabis contains 113 different cannabinoids; the most notable ones are THC and CBD. THC and CBD share a nearly exact formula, but one critical difference in their molecular structure gives each compand unique medicinal properies. For instance, unlike THC, CBD isn't psychoactive and won't make you high. Instead when ingestted, CBD not only combats the psychoactive effects of THC, but also relieves pain, reducing inflammation and beyond.</p>
