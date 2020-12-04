@@ -147,10 +147,11 @@ nav ul li a:hover {
 }
 
 .banner {
-  height:250px;
+  height:350px;
   background-image: url(images/tupas-joint.jpg);
   background-size: cover;
   background-position: center;
+  paddine: 10%;
 }
 
 body {
