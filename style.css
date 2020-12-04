@@ -151,7 +151,6 @@ nav ul li a:hover {
   background-image: url(images/tupas-joint.jpg);
   background-size: cover;
   background-position: center;
-  padding: 20%;
 }
 
 body {
@@ -161,7 +160,7 @@ body {
   font-family:Helvetica;
   /* header,
   section, */
-  background-image: url(images/star-background.png);
+  background-image: url(images/black-background.jpg);
   background-repeat: repeat;
   padding: 10%;
 }
