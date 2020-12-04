@@ -151,6 +151,7 @@ nav ul li a:hover {
   background-image: url(images/tupas-joint.jpg);
   background-size: cover;
   background-position: center;
+  padding: 20%;
 }
 
 body {
@@ -188,14 +189,14 @@ img {
 }
 
 h1{
-  color: black;
+  color: white;
   font-family: 'Sarala', sans-serif;
   font-size: 20px;
   text-align: left;
 }
 
 h2 {
-  color: rgb(212,175,55);
+  color: white;
   font-family: 'Aclonica', sans-serif;
   font-size= 24px;
 }
@@ -219,7 +220,7 @@ ul, ol {
 }
 
 header h1 {
-  color: rgb(212,175,55);
+  color: black;
   font-family: 'Aclonica', sans-serif;
   /* font-size: 20px */
   text-align: center;
@@ -240,7 +241,7 @@ footer {
 }
 
 section {
-  color: rgb(212,175,55);
+  color: black;
   font-size: 20px;
   font-family: 'Sarala', sans-serif;
 }
